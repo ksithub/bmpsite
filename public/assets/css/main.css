@@ -19179,3 +19179,8 @@ li.setup-process-item:not(:last-child):before {
   box-shadow: 0px 20px 80px -10px rgba(0, 108, 236, 0.15);
   border: 1px solid transparent;
 }
+.center-block {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}

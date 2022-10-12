@@ -67,6 +67,7 @@ const Navbar = ({ navDark }) => {
                     Home
                   </Link>
                 </li>
+                
                   {/* <Link
                     className="nav-link dropdown-toggle"
                     to="/"
@@ -262,14 +263,14 @@ const Navbar = ({ navDark }) => {
                     About
                   </Link>
                 </li>
-                {/* <li>
+                 <li>
                   <Link to="/services" className="nav-link">
                     Services
                   </Link>
-                </li> */}
+                </li>
                 
 
-                <li className="nav-item dropdown">
+                {/* <li className="nav-item dropdown">
                   <a
                     className="nav-link dropdown-toggle"
                     href="/#"
@@ -365,12 +366,12 @@ const Navbar = ({ navDark }) => {
                           </span>
                           <div className="drop-title">Request for Demo</div>
                         </Link>
-                        {/* <Link to="/login" className="dropdown-link">
+                        <Link to="/login" className="dropdown-link">
                           <span className="me-2">
                             <i className="far fa-sign-in"></i>
                           </span>
                           <div className="drop-title">User Login</div>
-                        </Link> */}
+                        </Link> 
                         <Link to="/signup" className="dropdown-link">
                           <span className="me-2">
                             <i className="far fa-user-plus"></i>
@@ -401,7 +402,7 @@ const Navbar = ({ navDark }) => {
                       </div>
                     </div>
                   </div>
-                </li>
+                </li> */}
                 <li>
                   <Link to="/why-choose-us" className="nav-link">
                     Why Choose Us

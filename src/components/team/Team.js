@@ -10,7 +10,7 @@ const Team = () => {
             <div className='col-lg-6 col-md-12'>
               <div className='section-heading text-center'>
                 <h5 className='h6 text-primary'>Our Team</h5>
-                <h2>The People Behind Quiety</h2>
+                <h2>The People Behind Blockchain Maker Place</h2>
                 <p>
                   Intrinsicly strategize cutting-edge before interoperable
                   applications incubate extensive expertise through integrated

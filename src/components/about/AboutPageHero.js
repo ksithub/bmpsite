@@ -18,7 +18,7 @@ const AboutPageHero = () => {
                 <div className='about-content-left'>
                   <div className='about-info mb-5'>
                     <h1 className='fw-bold display-5'>
-                      Grow your Business & Customer Satisfaction with Quiety
+                      Grow your Business & Customer Satisfaction with Blockchain Maker Place
                     </h1>
                     <p className='lead'>
                       Dynamically disintermediate technically sound technologies
