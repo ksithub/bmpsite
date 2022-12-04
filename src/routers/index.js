@@ -6,6 +6,9 @@ import HomeSassOne from '../themes/index1/HomeSassOne';
 import HomeSassTwo from '../themes/index2/HomeSassTwo';
 import Services from '../pages/services/Services';
 import SingleService from '../pages/services/SingleService';
+import NFTService from '../pages/services/NFTService';
+import SmartContractDevelopmentService from '../pages/services/SmartContractDevelopment';
+import Web3DevelopmentService from '../pages/services/Web3Development';
 import Login from '../pages/onboard/Login';
 import NotFoundScreen from '../components/others/NotFoundScreen';
 import HomeDesktopApp from '../themes/index3/HomeDesktopApp';
@@ -40,6 +43,7 @@ import HomeTwelve from '../themes/index12/HomeTwelve';
 import HomeThirteen from '../themes/index13/HomeThirteen';
 import HomeFourteen from '../themes/index14/HomeFourteen';
 import HomeFifteen from '../themes/index15/HomeFifteen';
+import SmartContractDevelopment from '../pages/services/SmartContractDevelopment';
 
 function index() {
   return (
@@ -69,6 +73,9 @@ function index() {
         <Route exact path="/why-choose-us" element={<WhyChooseUs />} />
         <Route exact path="/services" element={<Services />} />
         <Route exact path="/single-service" element={<SingleService />} />
+        <Route exact path="/nft-services" element={<NFTService />} />
+        <Route exact path="/smart-contract-development-company" element={<SmartContractDevelopmentService />} />
+        <Route exact path="/web3-development-company" element={<Web3DevelopmentService />} />
         <Route exact path="/contact-us" element={<Contact />} />
         <Route exact path="/pricing" element={<Pricing />} />
         <Route exact path="/blogs" element={<Blogs />} />

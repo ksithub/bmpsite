@@ -11954,8 +11954,8 @@ h4 {
 }
 
 .dropdown-grid.width-full {
-  grid-template-columns: 1fr 1fr;
-  width: 650px;
+  /* grid-template-columns: 1fr 1fr; */
+  width: 499px;
 }
 
 .width-full-3 {

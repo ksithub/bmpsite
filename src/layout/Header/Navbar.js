@@ -258,19 +258,20 @@ const Navbar = ({ navDark }) => {
                     </div>
                   </div>
                 </li>
+                {/* <li>
+                  <Link to="/services" className="nav-link">
+                    Services
+                  </Link>
+                </li> */}
                 <li>
                   <Link to="/about-us" className="nav-link">
                     About
                   </Link>
                 </li>
-                 <li>
-                  <Link to="/services" className="nav-link">
-                    Services
-                  </Link>
-                </li>
+                 
                 
 
-                {/* <li className="nav-item dropdown">
+                { <li className="nav-item dropdown">
                   <a
                     className="nav-link dropdown-toggle"
                     href="/#"
@@ -282,127 +283,32 @@ const Navbar = ({ navDark }) => {
                   </a>
                   <div className="dropdown-menu border-0 rounded-custom shadow py-0 bg-white">
                     <div className="dropdown-grid rounded-custom width-full">
-                      <div className="dropdown-grid-item">
-                        <h6 className="drop-heading">Useful Links</h6>
-                        <Link to="/contact-us" className="dropdown-link px-0">
+                      <div className="dropdown-grid-item width-full">                        
+                        <Link to="/nft-services" className="dropdown-link px-0">
                           <span className="me-2">
-                            <i className="far fa-address-book"></i>
+                            <i className="far fa-feather"></i>
                           </span>
-                          <div className="drop-title">Contact Us</div>
+                          <div className="drop-title">NFT Services</div>
                         </Link>
                         <Link
-                          to="/single-service"
+                          to="/smart-contract-development-company"
                           className="dropdown-link px-0"
                         >
                           <span className="me-2">
-                            <i className="far fa-server"></i>
+                            <i className="far fa-file-lines"></i>
                           </span>
-                          <div className="drop-title">Services Single</div>
+                          <div className="drop-title">Smart Contract Development</div>
                         </Link>
-                        <Link to="/blogs" className="dropdown-link">
+                        <Link to="/web3-development-company" className="dropdown-link">
                           <span className="me-2">
-                            <i className="far fa-th-large"></i>
+                            <i className="far fa-cube"></i>
                           </span>
-                          <div className="drop-title">Our Latest News</div>
-                        </Link>
-                        <Link to="/blog-single" className="dropdown-link">
-                          <span className="me-2">
-                            <i className="far fa-bars"></i>
-                          </span>
-                          <div className="drop-title">News Details</div>
-                        </Link>
-                        <Link to="/career" className="dropdown-link px-0">
-                          <span className="me-2">
-                            <i className="far fa-graduation-cap"></i>
-                          </span>
-                          <div className="drop-title">Career</div>
-                        </Link>
-                        <Link
-                          to="/career-single"
-                          className="dropdown-link px-0"
-                        >
-                          <span className="me-2">
-                            <i className="far fa-user-graduate"></i>
-                          </span>
-                          <div className="drop-title">Career Single</div>
-                        </Link>
-                        <Link to="/integrations" className="dropdown-link">
-                          <span className="me-2">
-                            <i className="far fa-rocket-launch"></i>
-                          </span>
-                          <div className="drop-title">Integrations</div>
-                        </Link>
-                        <Link
-                          to="/integration-single"
-                          className="dropdown-link px-0"
-                        >
-                          <span className="me-2">
-                            <i className="far fa-paper-plane"></i>
-                          </span>
-                          <div className="drop-title">Integration Single</div>
-                        </Link>
-                      </div>
-                      <div className="dropdown-grid-item radius-right-side bg-light">
-                        <h6 className="drop-heading">Utility Pages </h6>
-
-                        <Link to="/help-center" className="dropdown-link">
-                          <span className="me-2">
-                            <i className="far fa-life-ring"></i>
-                          </span>
-                          <div className="drop-title">Help Center</div>
-                        </Link>
-                        <Link
-                          to="/help-center-single"
-                          className="dropdown-link"
-                        >
-                          <span className="me-2">
-                            <i className="far fa-headset"></i>
-                          </span>
-                          <div className="drop-title">Help Details</div>
-                        </Link>
-                        <Link to="/request-for-demo" className="dropdown-link">
-                          <span className="me-2">
-                            <i className="far fa-laptop-code"></i>
-                          </span>
-                          <div className="drop-title">Request for Demo</div>
-                        </Link>
-                        <Link to="/login" className="dropdown-link">
-                          <span className="me-2">
-                            <i className="far fa-sign-in"></i>
-                          </span>
-                          <div className="drop-title">User Login</div>
-                        </Link> 
-                        <Link to="/signup" className="dropdown-link">
-                          <span className="me-2">
-                            <i className="far fa-user-plus"></i>
-                          </span>
-                          <div className="drop-title">User SignUp</div>
-                        </Link>
-                        <Link to="/password-reset" className="dropdown-link">
-                          <span className="me-2">
-                            <i className="far fa-trash-undo"></i>
-                          </span>
-                          <div className="drop-title">Recovery Account</div>
-                        </Link>
-                        <Link to="/error" className="dropdown-link">
-                          <span className="me-2">
-                            <i className="far fa-exclamation-triangle"></i>
-                          </span>
-                          <div className="drop-title">404 Page</div>
-                        </Link>
-                        <Link
-                          to={process.env.PUBLIC_URL + '/coming-soon'}
-                          className="dropdown-link"
-                        >
-                          <span className="me-2">
-                            <i className="far fa-clock"></i>
-                          </span>
-                          <div className="drop-title">Coming Soon</div>
-                        </Link>
-                      </div>
+                          <div className="drop-title">Web3 Development</div>
+                        </Link>                        
+                      </div>                      
                     </div>
                   </div>
-                </li> */}
+                </li> }
                 <li>
                   <Link to="/why-choose-us" className="nav-link">
                     Why Choose Us
