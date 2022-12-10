@@ -14,7 +14,7 @@ const HeroOne = () => {
             <div className="col-lg-6 col-md-10">
               <div className="hero-content-wrap mt-5 mt-lg-0 mt-xl-0">
                 <HeroTitle
-                  title="Get Fully Control and Visibility your Company 101"
+                  title="Get Fully Control and Visibility your Company"
                   desc="Proactively coordinate quality quality vectors vis-a-vis
                   supply chains. Quickly engage client-centric web services."
                 />
