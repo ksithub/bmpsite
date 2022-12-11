@@ -43,7 +43,7 @@ import HomeTwelve from '../themes/index12/HomeTwelve';
 import HomeThirteen from '../themes/index13/HomeThirteen';
 import HomeFourteen from '../themes/index14/HomeFourteen';
 import HomeFifteen from '../themes/index15/HomeFifteen';
-import SmartContractDevelopment from '../pages/services/SmartContractDevelopment';
+
 
 function index() {
   return (

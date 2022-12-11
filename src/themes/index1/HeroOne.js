@@ -14,9 +14,8 @@ const HeroOne = () => {
             <div className="col-lg-6 col-md-10">
               <div className="hero-content-wrap mt-5 mt-lg-0 mt-xl-0">
                 <HeroTitle
-                  title="Get Fully Control and Visibility your Company"
-                  desc="Proactively coordinate quality quality vectors vis-a-vis
-                  supply chains. Quickly engage client-centric web services."
+                  title="We Solve Real-world Problems By Creating Digital Solutions"
+                  desc="As the leader of the blockchain space, we help businesses across the globe build a solid financial infrastructure and thriving blockchain products nurtured by innovation."
                 />
                 <div
                   className="action-btn mt-5 align-items-center d-block d-sm-flex d-lg-flex d-md-flex"
@@ -29,16 +28,16 @@ const HeroOne = () => {
                     videoId="hAP2QF--2Dg"
                     onClose={() => setOpen(false)}
                   />
-                  <Link to="/request-for-demo" className="btn btn-primary me-3">
-                    Request For Demo
+                  <Link to="/contact-us" className="btn btn-primary me-3">
+                    Contact
                   </Link>
-                  <Link
+                  {/* <Link
                     to="#"
                     className="text-white text-decoration-none d-inline-flex align-items-center watch-now-btn mt-3 mt-lg-0 mt-md-0"
                     onClick={() => setOpen(true)}
                   >
                     <i className="fas fa-play"></i> Watch Demo
-                  </Link>
+                  </Link> */}
                 </div>
                 <div className="row justify-content-lg-start mt-60">
                   <h6 className="text-white-70 mb-2">Our Top Clients:</h6>
