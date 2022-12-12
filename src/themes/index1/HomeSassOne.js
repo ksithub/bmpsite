@@ -26,7 +26,7 @@ class HomeSassOne extends Component {
         <FeatureImg />
         <TestimonialOne darkBg />
         <WorkProcess />
-        <PriceOne paddingTop='pt-60 pb-120' haspriceTitleWithHeader />
+        {/* <PriceOne paddingTop='pt-60 pb-120' haspriceTitleWithHeader /> */}
         <FaqOne />
         <IntegrationOne />
         <CtaOne />
