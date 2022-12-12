@@ -68,7 +68,7 @@ const HeroOne = () => {
             <div className="col-lg-6 col-md-8 mt-5">
               <div className="hero-img position-relative circle-shape-images">
                 <img
-                  src="assets/img/undraw_online_art_re_f1pk.svgundraw_online_art_re_f1pk.svg"
+                  src="assets/img/undraw_online_art_re_f1pk.svg"
                   alt="hero img"
                   className="img-fluid position-relative z-5"
                 />
