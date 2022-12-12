@@ -18,10 +18,11 @@ const ContactBox = () => {
                   </p>
                 </div>
                 <a
-                  href='mailto:hellothemetags@gmail.com'
+                  href='https://tawk.to/chat/63972062b0d6371309d401e7/1gk35d0rr'
                   className='btn btn-link mt-auto'
+                  target='_blank'
                 >
-                  Chat with us
+                  Chat with us  
                 </a>
               </div>
             </div>
@@ -32,19 +33,19 @@ const ContactBox = () => {
                   <h5>Email Us</h5>
                   <p>
                     Simple drop us an email at{' '}
-                    <strong>hellothemetags@gmail.com</strong>
+                    <strong>hello@blockchainmakerplace.com</strong>
                     and you'll receive a reply within 24 hours
                   </p>
                 </div>
                 <a
-                  href='mailto:hellothemetags@gmail.com'
+                  href='mailto:hello@blockchainmakerplace.com'
                   className='btn btn-primary mt-auto'
                 >
                   Email Us
                 </a>
               </div>
             </div>
-            <div className='col-lg-4 col-md-6 mt-4 mt-lg-0'>
+            {/* <div className='col-lg-4 col-md-6 mt-4 mt-lg-0'>
               <div className='contact-us-promo p-5 bg-white rounded-custom custom-shadow text-center d-flex flex-column h-100'>
                 <span className='fad fa-phone fa-3x text-primary'></span>
                 <div className='contact-promo-info mb-4'>
@@ -59,7 +60,7 @@ const ContactBox = () => {
                   00-976-561-008
                 </a>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </section>

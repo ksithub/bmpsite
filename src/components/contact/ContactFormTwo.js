@@ -12,9 +12,9 @@ const ContactFormTwo = () => {
       >
         <div className='container'>
           <div className='row justify-content-lg-between align-items-center'>
-            <div className='col-lg-6 col-md-8'>
+            {/* <div className='col-lg-6 col-md-8'>
               <div className='section-heading'>
-                <h2>Talk to Our Sales & Marketing Department Team</h2>
+                <h2>Talk to Our Team</h2>
                 <p>
                   Collaboratively promote client-focused convergence vis-a-vis
                   customer directed alignments via standardized infrastructures.
@@ -100,8 +100,9 @@ const ContactFormTwo = () => {
                   Get in Touch
                 </button>
               </form>
-            </div>
-            <div className='col-lg-5 col-md-10'>
+            </div> */}
+            <div className='col-lg-3'></div>
+            <div className='col-lg-6 col-md-10'>
               <div className='contact-us-img'>
                 <img
                   src='assets/img/contact-us-img-2.svg'
@@ -110,6 +111,7 @@ const ContactFormTwo = () => {
                 />
               </div>
             </div>
+            <div className='col-lg-3'></div>
           </div>
         </div>
       </section>

@@ -12,6 +12,10 @@ import FaqOne from '../../components/faqs/FaqOne';
 import IntegrationOne from '../../components/integration/IntegrationOne';
 import CtaOne from '../../components/cta/CtaOne';
 import FooterOne from '../../layout/Footer/FooterOne';
+import CryptoFooter from '../../layout/Footer/CryptoFooter';
+import FooterSocial from '../../layout/Footer/FooterSocial';
+import FooterTwo from '../../layout/Footer/FooterTwo';
+import GameFooter from '../../layout/Footer/GameFooter';
 import FeatureOne from '../../components/features/FeatureOne';
 
 class HomeSassOne extends Component {
@@ -29,8 +33,12 @@ class HomeSassOne extends Component {
         {/* <PriceOne paddingTop='pt-60 pb-120' haspriceTitleWithHeader /> */}
         <FaqOne />
         <IntegrationOne />
-        <CtaOne />
-        <FooterOne footerGradient />
+        {/* <CtaOne /> */}
+        {/* <FooterOne footerGradient /> */}
+        <CryptoFooter footerGradient />
+        
+        
+        
       </Layout>
     );
   }

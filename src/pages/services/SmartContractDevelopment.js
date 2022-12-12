@@ -5,7 +5,7 @@ import FeatureImgContentThree from '../../components/feature-img-content/Feature
 import FeatureImgEight from '../../components/features/FeatureImgEight';
 import RequestForDemo from '../../components/others/RequestForDemo';
 import PromoThree from '../../components/promo/PromoThree';
-import FooterOne from '../../layout/Footer/FooterOne';
+import CryptoFooter from '../../layout/Footer/CryptoFooter';
 import Navbar from '../../layout/Header/Navbar';
 import Layout from '../../layout/Layout';
 
@@ -22,7 +22,7 @@ const SmartContractDevelopment = () => {
       <FeatureImgContentThree />
       <PromoThree hasBg />
       <RequestForDemo />
-      <FooterOne footerLight />
+      <CryptoFooter  />
     </Layout>
   );
 };
