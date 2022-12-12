@@ -9,8 +9,8 @@ const FeatureFour = () => {
           <div className='row justify-content-center'>
             <div className='col-lg-6 col-md-12'>
               <SectionTitle
-                subtitle='Build Quality'
-                title='Our Special Features'
+                // subtitle='Build Quality'
+                title='Our Speciality'
                 description='  Authoritatively underwhelm excellent methodologies via premium
                   expertise competitive than open-source imperatives
                   disseminate.'

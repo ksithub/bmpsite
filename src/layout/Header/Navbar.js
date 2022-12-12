@@ -269,9 +269,26 @@ const Navbar = ({ navDark }) => {
                   </Link>
                 </li>
                  
-                
+                <li>
+                  <Link to="/nft-services" className="nav-link">
+                  NFT Services
+                  </Link>
+                </li>
+                 
+                <li>
+                  <Link to="/smart-contract-development-company" className="nav-link">
+                  Smart Contract Development
+                  </Link>
+                </li>
+                 
+                <li>
+                  <Link to="/web3-development-company" className="nav-link">
+                  Web3 Development
+                  </Link>
+                </li>
+                 
 
-                { <li className="nav-item dropdown">
+                {/* { <li className="nav-item dropdown">
                   <a
                     className="nav-link dropdown-toggle"
                     href="/#"
@@ -308,12 +325,12 @@ const Navbar = ({ navDark }) => {
                       </div>                      
                     </div>
                   </div>
-                </li> }
-                <li>
+                </li> } */}
+                {/* <li>
                   <Link to="/why-choose-us" className="nav-link">
                     Why Choose Us
                   </Link>
-                </li>
+                </li> */}
               </ul>
             </div>
 

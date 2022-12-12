@@ -6,7 +6,7 @@ const PageHeader = ({ title, desc, integration, blogtags }) => {
     <>
       {integration ? (
         <section
-          className='page-header position-relative overflow-hidden ptb-120 bg-dark'
+          className='page-header position-relative overflow-hidden ptb-150 bg-dark'
           style={{
             background:
               "url('assets/img/page-header-bg.svg')no-repeat bottom left",
@@ -45,7 +45,7 @@ const PageHeader = ({ title, desc, integration, blogtags }) => {
         </section>
       ) : (
         <section
-          className='page-header position-relative overflow-hidden ptb-120 bg-dark'
+          className='page-header position-relative overflow-hidden ptb-150 bg-dark'
           style={{
             background:
               "url('assets/img/page-header-bg.svg')no-repeat bottom left",

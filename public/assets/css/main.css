@@ -11729,6 +11729,9 @@ h4 {
     font-size: 1.0625rem !important;
   }
 }
+.ptb-150 {
+  padding: 150px 0;
+}
 .ptb-120 {
   padding: 120px 0;
 }

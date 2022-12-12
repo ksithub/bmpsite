@@ -14,7 +14,7 @@ const Contact = () => {
       <Navbar navDark />
       <PageHeader
         title="Contact Us"
-        desc="Seamlessly actualize client-based users after out-of-the-box value data through frictionless expertise. Proactively coordinate quality quality vectors vis-a-vis supply chains. Quickly engage client-centric web services."
+        desc="Let us know which of our services you’re interested in, and our dedicated team will get back to you shortly!"
       />
       <ContactFormTwo />
       <ContactBox />      

@@ -17,9 +17,7 @@ const CryptoFooter = () => {
                   />
                 </Link>
                 <p>
-                  Bitcoin, first released as open-source software in is the
-                  first decentralized cryptocurrency. Since the release of
-                  bitcoin
+                Let us know which of our services you’re interested in, and our dedicated team will get back to you shortly!
                 </p>
               </div>
               <nav className="crypto-footer-nav py-5">
@@ -67,15 +65,25 @@ const CryptoFooter = () => {
                 </ul>
               </nav>
               <h4 className="text-white mb-4 fw-medium">
-                To keep updated Join our social channels.
+                To keep updated be connected any social account.
               </h4>
               <ul className="list-unstyled crypto-footer-social pb-120">
-              <li className="list-inline-item">
+              <li className="list-inline-item">                
                   <a href="#/">
-                    <i className="fad fa-envelope"></i>
+                  <i class="fa-solid fa-envelope"></i>
                   </a>
                 </li>
                 <li className="list-inline-item">
+                  <a href="#/">
+                  <i class="fa-brands fa-skype"></i>
+                  </a>
+                </li>
+                <li className="list-inline-item">
+                  <a href="#/">
+                  <i class="fa-brands fa-telegram"></i>
+                  </a>
+                </li>
+                {/* <li className="list-inline-item">
                   <a href="#/">
                     <i className="fab fa-facebook-f"></i>
                   </a>
@@ -94,7 +102,7 @@ const CryptoFooter = () => {
                   <a href="#/">
                     <i className="fab fa-youtube"></i>
                   </a>
-                </li>
+                </li> */}
               </ul>
             </div>
           </div>
