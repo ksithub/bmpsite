@@ -5,7 +5,7 @@ const AboutPageHero = () => {
   return (
     <>
       <section
-        className='about-header-section ptb-120 position-relative overflow-hidden bg-dark'
+        className='about-header-section ptb-150 pb-20 position-relative overflow-hidden bg-dark'
         style={{
           background:
             "url('assets/img/page-header-bg.svg')no-repeat center right",
@@ -21,34 +21,14 @@ const AboutPageHero = () => {
                       Grow your Business & Customer Satisfaction with Blockchain Maker Place
                     </h1>
                     <p className='lead'>
-                      Dynamically disintermediate technically sound technologies
-                      with compelling quality vectors error-free communities.{' '}
+                      Dynamically disintermediate technically sound & Creative Teams
+                      with compelling quality deliver projects.{' '}
                     </p>
-                    <Link to='/career' className='btn btn-primary mt-4 me-3'>
-                      Open Positions
-                    </Link>
-                    <Link to='/about-us' className='btn btn-soft-primary mt-4'>
-                      Meet Our Team
-                    </Link>
-                  </div>
-                  <img
-                    src='assets/img/about-img-1.jpg'
-                    alt='about'
-                    className='img-fluid about-img-first mt-5 rounded-custom shadow'
-                  />
-                </div>
-                <div className='about-content-right'>
-                  <img
-                    src='assets/img/about-img-2.jpg'
-                    alt='about'
-                    className='img-fluid mb-5 rounded-custom shadow'
-                  />
-                  <img
-                    src='assets/img/about-img-3.jpg'
-                    alt='about'
-                    className='rounded-custom about-img-last shadow'
-                  />
-                </div>
+                    <Link to='/contact-us' className='btn btn-primary mt-4 me-3'>
+                      Let's cup of coffee
+                    </Link>                    
+                  </div>                 
+                </div>                
               </div>
             </div>
           </div>

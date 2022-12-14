@@ -17,10 +17,10 @@ const About = () => {
       <Navbar navDark />
       <AboutPageHero />
       <OurStory />
-      <FeatureImgThree />
-      <Team />
+      {/* <FeatureImgThree />
+      <Team /> */}
       <TestimonialTwo />
-      <CtaTwo />
+      {/* <CtaTwo /> */}
       <CryptoFooter  />
     </Layout>
   );

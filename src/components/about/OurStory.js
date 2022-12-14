@@ -22,7 +22,7 @@ const OurStory = () => {
                   quality vectors cross-media materials before proactive
                   outsourcing leverage others vertical technology leadership.'
                 />
-                <div className='mt-4'>
+                {/* <div className='mt-4'>
                   <h6 className='mb-3'>We Are Awarded By-</h6>
                   <img
                     src='assets/img/awards-01.svg'
@@ -34,7 +34,7 @@ const OurStory = () => {
                     alt='awards'
                     className='img-fluid'
                   />
-                </div>
+                </div> */}
               </div>
             </div>
             <div className='col-lg-6 col-md-12 order-lg-0'>
@@ -60,27 +60,27 @@ const OurStory = () => {
                 <div className='story-grid rounded-custom bg-dark overflow-hidden position-relative'>
                   <div className='story-item bg-light border'>
                     <h3 className='display-5 fw-bold mb-1 text-success'>
-                      550K+
+                      150+
                     </h3>
-                    <h6 className='mb-0'>Active Users</h6>
+                    <h6 className='mb-0'>Completed Projects</h6>
                   </div>
                   <div className='story-item bg-white border'>
                     <h3 className='display-5 fw-bold mb-1 text-primary'>
-                      250+
-                    </h3>
-                    <h6 className='mb-0'>Team Members</h6>
-                  </div>
-                  <div className='story-item bg-white border'>
-                    <h3 className='display-5 fw-bold mb-1 text-dark'>$20M+</h3>
-                    <h6 className='mb-0'>Revenue Per/Year</h6>
-                  </div>
-                  <div className='story-item bg-light border'>
-                    <h3 className='display-5 fw-bold mb-1 text-warning'>
-                      8 Years
+                      11 Years
                     </h3>
                     <h6 className='mb-0'>In Business</h6>
                   </div>
+                  <div className='story-item bg-white border'>
+                    <h3 className='display-5 fw-bold mb-1 text-dark'>1.8k</h3>
+                    <h6 className='mb-0'>Happy Clients</h6>
+                  </div>
                   <div className='story-item bg-light border'>
+                    <h3 className='display-5 fw-bold mb-1 text-warning'>
+                      99%
+                    </h3>
+                    <h6 className='mb-0'>Premium Support</h6>
+                  </div>
+                  {/* <div className='story-item bg-light border'>
                     <h3 className='display-5 fw-bold mb-1 text-danger'>425+</h3>
                     <h6 className='mb-0'>Clients Worldwide</h6>
                   </div>
@@ -89,7 +89,7 @@ const OurStory = () => {
                       855+
                     </h3>
                     <h6 className='mb-0'>Projects Completed</h6>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>

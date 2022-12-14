@@ -130,7 +130,7 @@ const WorkProcessTwo = () => {
                     p-3
                   '
                 >
-                  <i className='fad fa-truck fa-2x'></i>
+                  <i className='fad fa-shield fa-2x'></i>
                 </div>
                 <h3 className='h5'>Deliver</h3>
                 <p className='mb-0'>

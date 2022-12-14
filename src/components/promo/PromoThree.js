@@ -41,7 +41,7 @@ const PromoThree = ({hasBg}) => {
                 data-aos-delay='100'
               >
                 <div className='promo-card-info'>
-                  <h3 className='display-5 fw-medium mb-4'>1.5k</h3>
+                  <h3 className='display-5 fw-medium mb-4'>1.8k</h3>
                   <h2 className='h5'>Happy Client</h2>
                   <p className='mb-0'>
                     Energistically impact synergistic convergence for
@@ -57,8 +57,8 @@ const PromoThree = ({hasBg}) => {
                 data-aos-delay='150'
               >
                 <div className='promo-card-info'>
-                  <h3 className='display-5 fw-medium mb-4'>90%</h3>
-                  <h2 className='h5'>24/7 Support</h2>
+                  <h3 className='display-5 fw-medium mb-4'>99%</h3>
+                  <h2 className='h5'>Premium Support</h2>
                   <p className='mb-0'>
                     Synergistically revolutionize leadership whereas platform.{' '}
                   </p>

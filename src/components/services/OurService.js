@@ -22,7 +22,7 @@ const OurService = () => {
           <div className="col-lg-4">
             <div className="cyber-single-service bg-white rounded-custom mb-30">
               <div className="feature-icon pb-5 rounded bg-primary-soft text-primary mb-4">
-                <i className="far fa-list"></i>
+                <i className="far fa-feather"></i>
               </div>
               <div className="cyber feature-info-wrap">
                 <h3 className="h5">NFT Services</h3>
@@ -42,7 +42,7 @@ const OurService = () => {
           <div className="col-lg-4">
             <div className="cyber-single-service bg-white rounded-custom mb-30">
               <div className="feature-icon pb-5 rounded bg-primary-soft text-primary mb-4">
-                <i className="far fa-cloud"></i>
+                <i className="far fa-file-lines"></i>
               </div>
               <div className="cyber feature-info-wrap">
                 <h3 className="h5">Smart Contract Development</h3>
@@ -62,7 +62,7 @@ const OurService = () => {
           <div className="col-lg-4">
             <div className="cyber-single-service bg-white rounded-custom mb-30">
               <div className="feature-icon pb-5 rounded bg-primary-soft text-primary mb-4">
-                <i className="far fa-database"></i>
+                <i className="far fa-cube"></i>
               </div>
               <div className="cyber feature-info-wrap">
                 <h3 className="h5">Web3 Development</h3>
