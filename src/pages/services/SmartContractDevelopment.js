@@ -24,6 +24,7 @@ const SmartContractDevelopment = () => {
       />
          
       <TabOneSmart/>
+      <PromoThree hasBg />
       <RequestForDemoSmall />
       <CryptoFooter  />
     </Layout>

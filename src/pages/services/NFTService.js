@@ -22,6 +22,7 @@ const NFTService = () => {
       />
       <TabOneNft />
       {/* <FeatureFourNft />       */}
+      <PromoThree hasBg />
       <RequestForDemoSmall />
       <CryptoFooter  />
     </Layout>
