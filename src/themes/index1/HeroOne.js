@@ -15,7 +15,7 @@ const HeroOne = () => {
               <div className="hero-content-wrap mt-5 mt-lg-0 mt-xl-0">
                 <HeroTitle
                   title="We Solve Real-world Problems By Providing Digital Solutions"
-                  desc="As the leader of the blockchain space, we help businesses across the globe build a blockchain products nurtured by innovation and NFT creative arts.                  ."
+                  desc="As the leader of the blockchain space, we help businesses across the globe build a blockchain products nurtured by innovation and NFT creative arts."
                 />
                 <div
                   className="action-btn mt-5 align-items-center d-block d-sm-flex d-lg-flex d-md-flex"

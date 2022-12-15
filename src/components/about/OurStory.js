@@ -17,10 +17,12 @@ const OurStory = () => {
               <div className='section-heading sticky-sidebar'>
                 <SectionTitle
                   subtitle='Our Story'
-                  title='A Great Story Starts with a Friendly Team'
-                  description='Globally e-enable principle-centered e-business before dynamic
-                  quality vectors cross-media materials before proactive
-                  outsourcing leverage others vertical technology leadership.'
+                  title='A Great Story Starts with a Dynamic Team'
+                  description="We is a Leading NFT Development Company that offers the best Blockchain & NFT Minting 
+                  Development services & solutions. A technical and creative skilled team is required to construct digital solutons with advanced functionality & features as per your needs.
+                  For years, we've had to collaborate with a number of international partners on blockchain technology. 
+                  We take on-demand tasks and provide solutions that are easy to implement. 
+                  Entrepreneurs, enthusiasts, investors, and start-ups can use our Blockchain soltion solutions by Blockchain Maker Place."
                 />
                 {/* <div className='mt-4'>
                   <h6 className='mb-3'>We Are Awarded By-</h6>

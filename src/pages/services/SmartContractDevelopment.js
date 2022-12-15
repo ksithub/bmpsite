@@ -10,6 +10,8 @@ import PromoThree from '../../components/promo/PromoThree';
 import CryptoFooter from '../../layout/Footer/CryptoFooter';
 import Navbar from '../../layout/Header/Navbar';
 import Layout from '../../layout/Layout';
+import TabOneSmart from './services-components/SmartContract/TabOneSmart.js';
+import FeatureFourSmart from './services-components/SmartContract/FeatureFourSmart.js';
 
 const SmartContractDevelopment = () => {
   return (
@@ -18,12 +20,10 @@ const SmartContractDevelopment = () => {
       <Navbar navDark />
       <PageHeader
         title="Quality of Smart Contract Development Service"
-        desc="Seamlessly actualize client-based users after out-of-the-box value. Globally embrace strategic data through frictionless expertise."
+        desc="Leading Smart contract development services. We delivered custom-built Smart contracts on public, private, and hybrid blockchains across numerous industries."
       />
          
-      <FeatureImgEight paddingTop />
-      <FeatureImgContentThree />
-      <PromoThree hasBg />
+      <TabOneSmart/>
       <RequestForDemoSmall />
       <CryptoFooter  />
     </Layout>

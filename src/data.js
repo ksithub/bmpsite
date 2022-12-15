@@ -48,40 +48,40 @@ const FaqOneData = [
 const TestimonialData = [
   {
     id: 1,
-    authorImg: 'assets/img/testimonial/1.jpg',
-    authorName: 'Mr.Rupan Oberoi',
-    authorTitle: 'Founder and CEO at Amaara Herbs',
-    quoteTitle: 'The Best Template You Got to Have it!',
+    authorImg: 'assets/img/testimonial/non-1.png',
+    authorName: 'Jesko Oberoi',
+    authorTitle: 'Founder and CEO',
+    quoteTitle: 'SoueCoin',
     authorQuote:
-      'Globally network long-term high-impact schemas vis-a-vis distinctive e-commerce cross-media than ethical',
+      "Blockchain Maker Palce developed a web application for us over a period of 8 months. We are most pleased with the level of service and dedication of the developer assigned to this project",
   },
   {
     id: 2,
-    authorImg: 'assets/img/testimonial/2.jpg',
-    authorName: 'Joan Dho',
+    authorImg: 'assets/img/testimonial/non-1.png',
+    authorName: 'Joan Choie',
     authorTitle: 'Founder and CTO',
-    quoteTitle: 'Best Template for SAAS Company!',
+    quoteTitle: 'LKFoundation!',
     authorQuote:
-      'Dynamically create innovative core competencies with effective best practices promote innovative infrastructures.',
+      "Blockchain Maker Palce develope minting landing page and Very Professional in talking to their clients. The company's customer service attitude, also during the support period after the project was completed.",
   },
-  {
-    id: 3,
-    authorImg: 'assets/img/testimonial/3.jpg',
-    authorName: 'Ranu Mondal',
-    authorTitle: 'Lead Developer',
-    quoteTitle: 'It is undeniably good!',
-    authorQuote:
-      'Rapidiously supply client-centric e-markets and maintainable processes progressively engineer',
-  },
-  {
-    id: 4,
-    authorImg: 'assets/img/testimonial/4.jpg',
-    authorName: 'Mr.Rupan Oberoi',
-    authorTitle: 'Founder and CEO at Amaara Herbs',
-    quoteTitle: 'The Best Template You Got to Have it!',
-    authorQuote:
-      'Globally network long-term high-impact schemas vis-a-vis distinctive e-commerce cross-media than ethical',
-  },
+  // {
+  //   id: 3,
+  //   authorImg: 'assets/img/testimonial/3.jpg',
+  //   authorName: 'Ranu Mondal',
+  //   authorTitle: 'Lead Developer',
+  //   quoteTitle: 'It is undeniably good!',
+  //   authorQuote:
+  //     'Rapidiously supply client-centric e-markets and maintainable processes progressively engineer',
+  // },
+  // {
+  //   id: 4,
+  //   authorImg: 'assets/img/testimonial/4.jpg',
+  //   authorName: 'Mr.Rupan Oberoi',
+  //   authorTitle: 'Founder and CEO at Amaara Herbs',
+  //   quoteTitle: 'The Best Template You Got to Have it!',
+  //   authorQuote:
+  //     'Globally network long-term high-impact schemas vis-a-vis distinctive e-commerce cross-media than ethical',
+  // },
 ];
 
 const TestimonialOneData = [

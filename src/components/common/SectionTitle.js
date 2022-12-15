@@ -14,7 +14,7 @@ const SectionTitle = ({ subtitle, dark, title, centerAlign, description }) => {
             {subtitle}
           </h4>
           <h2>{title}</h2>
-          <p>{description}</p>
+          <p class="text-justify">{description}</p>
         </div>
       ) : (
         <div

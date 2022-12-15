@@ -51,10 +51,10 @@ const TestimonialTwo = ({ dark, bgWhite }) => {
               {dark ? (
                 <SectionTitle
                   subtitle="Testimonial"
-                  title="What They Say About Us"
-                  description="Dynamically initiate market positioning total linkage with
-                  clicks-and-mortar technology compelling data for cutting-edge
-                  markets."
+                  title="What They Say About Blockchain Maker Place"
+                  // description="Dynamically initiate market positioning total linkage with
+                  // clicks-and-mortar technology compelling data for cutting-edge
+                  // markets."
                   darkBg
                   centerAlign
                 />
@@ -62,9 +62,9 @@ const TestimonialTwo = ({ dark, bgWhite }) => {
                 <SectionTitle
                   subtitle="Testimonial"
                   title="What They Say About Us"
-                  description="Dynamically initiate market positioning total linkage with
-                clicks-and-mortar technology compelling data for cutting-edge
-                markets."
+                //   description="Dynamically initiate market positioning total linkage with
+                // clicks-and-mortar technology compelling data for cutting-edge
+                // markets."
                   centerAlign
                 />
               )}

@@ -7,12 +7,12 @@ const PromoThree = ({hasBg}) => {
       <section className={`promo-section ptb-120 ${hasBg?'bg-light':''}`}>
         <div className='container'>
           <div className='row justify-content-center'>
-            <div className='col-md-10 col-lg-6'>
+            <div className='col-md-10 col-lg-10'>
               <SectionTitle
                 title='Everything We Do it With Love'
-                description=' Progressively deploy market positioning catalysts for change
-                  and technically sound authoritatively e-enable
-                  resource-leveling infrastructures.'
+                // description=' Progressively deploy market positioning catalysts for change
+                //   and technically sound authoritatively e-enable
+                //   resource-leveling infrastructures.'
                   centerAlign
               />
             </div>

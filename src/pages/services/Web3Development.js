@@ -9,6 +9,9 @@ import PromoThree from '../../components/promo/PromoThree';
 import CryptoFooter from '../../layout/Footer/CryptoFooter';
 import Navbar from '../../layout/Header/Navbar';
 import Layout from '../../layout/Layout';
+import TabOneWeb3 from './services-components/Web3/TabOneWeb3';
+import FeatureFourWeb3 from './services-components/Web3/FeatureFourWeb3';
+
 
 const Web3Development = () => {
   return (
@@ -16,11 +19,13 @@ const Web3Development = () => {
       <PageMeta title='Web3 Development - Blockchain &amp; NFT Solutions - Company - Blockchain Maker Place' />
       <Navbar navDark />
       <PageHeader
-        title="Quality of Web3 Development Service"
-        desc="Seamlessly actualize client-based users after out-of-the-box value. Globally embrace strategic data through frictionless expertise."
+        title="Premium Web3 Development Company"
+        desc="Avail the advanced web3 solutions in the market from the industry-leading web3.0 development company with the team of experts in web3 development."
       />   
-      <FeatureImgEight paddingTop />
-      <FeatureImgContentThree />
+      <TabOneWeb3 />
+      {/* <FeatureImgEight paddingTop />
+      <FeatureImgContentThree /> */}
+      <FeatureFourWeb3/>
       <PromoThree hasBg />
       <RequestForDemoSmall />
       <CryptoFooter footerLight />

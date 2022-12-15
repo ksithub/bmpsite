@@ -14,7 +14,7 @@ const PageHeader = ({ title, desc, integration, blogtags }) => {
         >
           <div className='container'>
             <div className='row justify-content-between align-items-center'>
-              <div className='col-lg-8 col-12'>
+              <div className='col-lg-12 col-12'>
                 <div className='company-info-wrap align-items-center'>
                   <div className='company-logo p-4 bg-white shadow rounded-custom me-4 mt-2'>
                     <div className='logo justify-content-center'>
@@ -57,7 +57,7 @@ const PageHeader = ({ title, desc, integration, blogtags }) => {
                 blogtags ? 'justify-content-center text-center' : ''
               }`}
             >
-              <div className='col-lg-8 col-md-12'>
+              <div className='col-lg-12 col-md-12'>
                 <h1 className='display-5 fw-bold'>{title}</h1>
                 <p className='lead'>{desc}</p>
               </div>
