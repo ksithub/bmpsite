@@ -43,17 +43,23 @@ const OffCanvasMenu = () => {
               </Link>
             </li>
             <li>
-              <Link to="/services" className="nav-link">
-                Services
+              <Link to="/web3-development-company" className="nav-link">
+                Web3 Development
               </Link>
             </li>
 
             <li>
-              <Link to="/why-choose-us" className="nav-link">
-              Why Choose Us
+              <Link to="/nft-services" className="nav-link">
+                NFT Services
               </Link>
             </li>
             
+            <li>
+              <Link to="/smart-contract-development-company" className="nav-link">
+                Smart Contract Development
+              </Link>
+            </li>
+
           </ul>
           <div className="action-btns mt-4 ps-3">            
             <Link to="/contact-us" className="btn btn-primary">
