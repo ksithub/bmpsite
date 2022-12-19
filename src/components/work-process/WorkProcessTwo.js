@@ -6,24 +6,22 @@ const WorkProcessTwo = () => {
       <section className='work-process ptb-120 bg-dark text-white'>
         <div className='container'>
           <div className='row justify-content-center'>
-            <div className='col-md-10 col-lg-6'>
+            <div className='col-md-10 col-lg-8'>
               <div className='section-heading text-center' data-aos='fade-up'>
                 <h2>We Follow Our Work Process</h2>
                 <p>
-                  Conveniently mesh cooperative services via magnetic
-                  outsourcing. Dynamically grow value whereas accurate
-                  e-commerce parallel quality vectors.
+                Our expert team of Blockchain Maker Place with a rigorous brainstorming create different types of engagement models that can be switched from one to another depending upon the clients requirements and goals. The approved ideas are shaped up and sketched carefully.
                 </p>
               </div>
             </div>
           </div>
           <div className='row d-flex align-items-center'>
-            <div className='col-md-6 col-lg-3'>
+            <div className='col-md-6 col-lg-3 p-0'>
               <div
                 className='
                   process-card-two
                   text-center
-                  px-4
+                  px-2
                   py-lg-5
                   py-4
                   rounded-custom
@@ -42,18 +40,18 @@ const WorkProcessTwo = () => {
                 >
                   <i className='fad fa-folder-tree fa-2x'></i>
                 </div>
-                <h3 className='h5'>Research</h3>
+                <h3 className='h5'>Research / Planning</h3>
                 <p className='mb-0'>
-                Progressively benchmark for the prospective results relationships.
+                With all the analysis and the research inputs, we gather the sketch and our functional team takes the responsibility to plan the roadmap of the project.
                 </p>
               </div>
             </div>
-            <div className='col-md-6 col-lg-3'>
+            <div className='col-md-6 col-lg-3  p-0'>
               <div
                 className='
                   process-card-two
                   text-center
-                  px-4
+                  px-2
                   py-lg-5
                   py-4
                   rounded-custom
@@ -70,20 +68,20 @@ const WorkProcessTwo = () => {
                     p-3
                   '
                 >
-                  <i className='fad fa-bezier-curve fa-2x'></i>
+                  <i className='fad fa-pen-ruler fa-2x'></i>                  
                 </div>
                 <h3 className='h5'>Designing</h3>
                 <p className='mb-0'>
-                Efficiently evisculate an grow your of mindshare through.
+                Our group of design professionals come up with a needed design that our client requires and make it more effective using the advanced domains.
                 </p>
               </div>
             </div>
-            <div className='col-md-6 col-lg-3'>
+            <div className='col-md-6 col-lg-3 p-0'>
               <div
                 className='
                   process-card-two
                   text-center
-                  px-4
+                  px-2
                   py-lg-5
                   py-4
                   rounded-custom
@@ -104,16 +102,16 @@ const WorkProcessTwo = () => {
                 </div>
                 <h3 className='h5'>Building</h3>
                 <p className='mb-0'>
-                Credibly maintain magnetic partnerships whereas users.
+                Our teams discuss multiple approaches to be included for the development of the product. We focus on the best outcome testing all with zero defects.
                 </p>
               </div>
             </div>
-            <div className='col-md-6 col-lg-3'>
+            <div className='col-md-6 col-lg-3 p-0'>
               <div
                 className='
                   process-card-two
                   text-center
-                  px-4
+                  px-2
                   py-lg-5
                   py-4
                   rounded-custom
@@ -132,9 +130,9 @@ const WorkProcessTwo = () => {
                 >
                   <i className='fad fa-shield fa-2x'></i>
                 </div>
-                <h3 className='h5'>Deliver</h3>
+                <h3 className='h5'>Delivery</h3>
                 <p className='mb-0'>
-                Rapidiously for enterprise-wide niche markets communities.
+                Treating each product as an asset, we deliver an eminence product with world standards. final development veterans build an enticing output
                 </p>
               </div>
             </div>

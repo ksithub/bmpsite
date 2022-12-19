@@ -7,13 +7,11 @@ const FeatureFour = () => {
       <section className='feature-section ptb-120'>
         <div className='container'>
           <div className='row justify-content-center'>
-            <div className='col-lg-6 col-md-12'>
+            <div className='col-lg-8 col-md-12'>
               <SectionTitle
                 // subtitle='Build Quality'
                 title='Our Speciality'
-                description='  Authoritatively underwhelm excellent methodologies via premium
-                  expertise competitive than open-source imperatives
-                  disseminate.'
+                description='We are digital transformation enablers with a highly skilled panel of professionals providing you secure, faster and immutable blockchain solutions enhancing your business growth.                  '
                 centerAlign
               />
             </div>
@@ -31,8 +29,7 @@ const FeatureFour = () => {
                   </div>
                   <h3 className='h5'>Quality First</h3>
                   <p className='mb-0'>
-                    Professionally integrate high standards applications before
-                    user friendly leadership skills.
+                  We believe that providing the best Quality service is the key to success for you even our also.
                   </p>
                 </div>
 
@@ -53,8 +50,7 @@ const FeatureFour = () => {
                   </div>
                   <h3 className='h5'>Communication</h3>
                   <p className='mb-0'>
-                    Professionally integrate high standards applications before
-                    user friendly leadership skills.
+                  We belive that Good communication is essential for a healthy business relationship,
                   </p>
                 </div>
               </div>
@@ -71,8 +67,7 @@ const FeatureFour = () => {
                   </div>
                   <h3 className='h5'>Reliability</h3>
                   <p className='mb-0'>
-                    Professionally integrate high standards applications before
-                    user friendly leadership skills.
+                  Reliability is key for any business, that's our specially for businesses that rely on technology.
                   </p>
                 </div>
 

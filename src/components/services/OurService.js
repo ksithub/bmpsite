@@ -6,14 +6,12 @@ const OurService = () => {
     <section className="cyber-features pt-100 bg-light">
       <div className="container">
         <div className="row justify-content-center">
-          <div className="col-md-8 col-lg-6">
+          <div className="col-md-8 col-lg-12">
             <div className="section-heading text-center mb-5">
               {/* <h5 className="h6 text-primary">Service</h5> */}
               <h2>High Quality Providing Solution & Service</h2>
               <p>
-                Uniquely promote adaptive quality vectors rather than
-                stand-alone e-markets. pontificate alternative architectures
-                whereas iterate
+                
               </p>
             </div>
           </div>
@@ -27,8 +25,7 @@ const OurService = () => {
               <div className="cyber feature-info-wrap">
                 <h3 className="h5">NFT Services</h3>
                 <p>
-                  Randomised words which don't look even passage of Lorem Ipsum.
-                  You need to be Lorem Ipsum randomised even .
+                Are you looking to generate a unique NFT collection? If so, you're in the right place! NFTs, or non-fungible tokens, are a revolutionary new way to collect digital art, music, games, and more
                 </p>
               </div>
               <Link
@@ -47,8 +44,7 @@ const OurService = () => {
               <div className="cyber feature-info-wrap">
                 <h3 className="h5">Smart Contract Development</h3>
                 <p>
-                  Randomised words which don't look even passage of Lorem Ipsum.
-                  You need to be Lorem Ipsum randomised even .
+                Are you looking for a Smart Contract Development Company? Look no further! We specialize in building custom smart contracts and (dApps) using top blockchain
                 </p>
               </div>
               <Link
@@ -67,8 +63,7 @@ const OurService = () => {
               <div className="cyber feature-info-wrap">
                 <h3 className="h5">Web3 Development</h3>
                 <p>
-                  Randomised words which don't look even passage of Lorem Ipsum.
-                  You need to be Lorem Ipsum randomised even .
+                Are you looking for a Web3 Development Company to help you create innovative and cutting-edge solutions? Look no further! We specialize in Web3 development,
                 </p>
               </div>
               <Link
